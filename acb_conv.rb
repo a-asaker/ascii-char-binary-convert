@@ -12,7 +12,7 @@ def usage
 		  Data Should Be binary.
  [~] Examples :
  	      ~ ./acb_conv.rb -a 67 34 546
-  	    ~ ./acb_conv.rb -c a 3 $
+  	      ~ ./acb_conv.rb -c a 3 $
 	      ~ ./acb_conv.rb -a 234 52 
 	      ~ ./acb_conv.rb -b 110100 1001000 101101"""
 	exit
